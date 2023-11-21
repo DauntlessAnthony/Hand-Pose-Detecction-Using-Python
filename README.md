@@ -10,4 +10,6 @@ Key Features:
 
 Whether you're a researcher, developer, or hobbyist, this project offers a powerful and efficient solution for pose and hand detection. You can leverage the code to build your own applications or contribute to the project by adding new features and improvements.
 
+@Efemena  @10Alytics
+
 
